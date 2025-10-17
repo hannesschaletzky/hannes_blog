@@ -1,0 +1,1 @@
+Worauf ich hinausmöchte: Wir als "Deutsche" drücken glaube ich Dinge gerne in Struktur und Plan. Ich glaube deswegen sind wir auch gut darin Produktionslinien und Fabriken aller Art aufzubauen. Läuft etwas gut, wird es verfestigt/"effizientisiert" sogar "traditionalisiert" und irgendwann macht man es so, weil man es schon immer so gemacht hat.
