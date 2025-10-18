@@ -1,6 +1,6 @@
 ---
-title: "Ein strukturierter Aufenthalt in 🇬🇷"
-description: "Frosch Sportreise in Sarti Beach"
+title: "Ein (über)strukturierter Aufenthalt in 🇬🇷"
+description: "Frosch Sportreise im Sarti Beach Hotel"
 pubDate: "2025-10-17T00:00:00Z"
 heroImage: "../../assets/2.jpg"
 ---
@@ -21,4 +21,4 @@ Es gab nicht nur rund um die Uhr analog Informationen an der Rezeption, sondern 
 
 ##### Und was nun?
 
-Diese Beispiele lassen mich zu dem Schluss kommen: "alles mit Voraussicht" bzw. "alles in Struktur"... woher kommt das und sind wir überhaupt so richtig in der Lage Dinge ohne detaillierten Plan einfach mal zu machen? Gefühlt brauchen wir gesellschaftlich gesehen stets einen Punkt in der Zeit bzw. einen Referenzwert an dem wir messen bzw. an dem wir uns orientieren können. Ich finde, das nimmt manchen Dingen die Spontanität, da man mit vielen Infos oder konkreten kommunizierten Erwartungen im Vorhinein seinen Rahmen bereits gesetzt hat. "Hier ist weniger Essen als geplant" oder "Wieso fahren wir anders als abgesprochen?" sind nur zwei Beispiele... Ich glaube wir nehmen uns dadurch oft die Chance, dass sich etwas "organisch" entwickelt.
+Diese Beispiele lassen mich zu dem Schluss kommen: "alles mit Voraussicht" bzw. "alles in Struktur"... woher kommt das und sind wir überhaupt so richtig in der Lage Dinge ohne detaillierten Plan einfach mal zu machen? Gefühlt brauchen wir gesellschaftlich gesehen stets einen Referenzwert an dem wir messen bzw. an dem wir uns orientieren können. Ich finde, das nimmt manchen Dingen die Spontanität, da man mit vielen Infos oder konkreten kommunizierten Erwartungen im Vorhinein seinen Rahmen bereits gesetzt hat. "Hier ist weniger Essen als geplant" oder "Wieso fahren wir anders als abgesprochen?" sind nur zwei Beispiele... Ich glaube wir nehmen uns dadurch oft die Chance, dass sich etwas "organisch" entwickelt.
